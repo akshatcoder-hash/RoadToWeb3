@@ -1,3 +1,2 @@
-# Community Template Repo
+# Road To Web3
 
-Template repo with docs and GitHub Actions etc, to create other projects.
